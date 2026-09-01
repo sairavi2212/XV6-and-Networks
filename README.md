@@ -52,7 +52,7 @@
 
 # MLFQ GRAPH
 
-![Graph](initial-xv6/src/Screenshot from 2024-10-15 02-17-35.png)
+![Graph](initial-xv6/src/Screenshot%20from%202024-10-15%2002-17-35.png)
 
 # TIME COMPARISION
 
